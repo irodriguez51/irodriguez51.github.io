@@ -15,7 +15,7 @@
   </p>
   <p>
     Prepare your frogs as you go onto save
-    froglandia from certain <strong>DOOM</strong>>!
+    froglandia from certain <strong>DOOM</strong>!
   </p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHljKRH-Pkd4Wux4svWdOQvnHpjKhNToDhQ&usqp=CAU">
 </body>
