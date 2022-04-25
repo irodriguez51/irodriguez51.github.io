@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Fancify Shmancify</title>
+
+		<!-- link to your script file here -->
+		<script src="fancifymytext.js"></script>
+	</head>
+
+	<body>
+		<h1>Fancify my Text</h1>
+
+
+		<!-- Your UI controls go here -->
+		<fieldset>
+			<legend>Text</legend>
+			<textarea id="Text" name-="Text" rows="4" cols="30"></textarea>
+		</fieldset>
+		<fieldset>
+			<legend>Fancify</legend>
+
+			<input type="button" id="biggerButton" name="Bigger!" onclick="biggerFunction()" />
+			<label for="biggerButton!">Bigger!</label>
+
+			<input type="radio" id="r1" name="FancyShmancy" onchange="fancyFunction()" />
+			<label for="r1">FancyShmancy</label>
+
+			<input type="radio" id="r2" name="BoringBetty" onchange="boringFunction()" checked />
+			<label for="r2">BoringBetty</label>
+
+			<input type="button" id="mooButton" name="Moo" onclick="mooFunction()" />
+			<label for="mooButton">Moo</label>
+		</fieldset>
+	</body>
+</html>
